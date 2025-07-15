@@ -1,4 +1,4 @@
-# [De Africa Petrarcae in Davidiade Marci Maruli Spalatensis #
+# De Africa Petrarcae in Davidiade Marci Maruli Spalatensis #
 
 [![DOI](https://zenodo.org/badge/36577371.svg)](https://zenodo.org/badge/latestdoi/36577371)
 
