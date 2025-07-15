@@ -1,6 +1,6 @@
 # De Africa Petrarcae in Davidiade Marci Maruli Spalatensis #
 
-[![DOI](https://zenodo.org/badge/36577371.svg)](https://zenodo.org/badge/latestdoi/36577371)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15916705.svg)](https://doi.org/10.5281/zenodo.15916705)
 
 TEI XML encoded Latin texts of Petrarch's Africa and Marko Marulić's Davidias (and his Latin verse translation of Petrarch's canzone Vergine bella). The Davidias and other Marulić's texts come from the [Croatiae auctores Latini](https://croala.ffzg.unizg.hr) collection, freely available under a [CC-BY license](LICENSE.md).
 
@@ -8,7 +8,7 @@ The data is prepared for a paper presented at the [IANLS 2025 conference](https:
 
 The text of the paper is available at the CroALa *Deliciae auctorum Croatiae* website: [croala.ffzg.unizg.hr/deliciae/deliciae/africadavidias/](https://croala.ffzg.unizg.hr/deliciae/deliciae/africadavidias/).
 
-* This Git repo exists on [Github](https://github.com/nevenjovanovic/africa-davidias-ianls-2025), on [Zenodo]().
+* This Git repo exists on [Github](https://github.com/nevenjovanovic/africa-davidias-ianls-2025), on [Zenodo DOI 10.5281/zenodo.15916705](https://doi.org/10.5281/zenodo.15916705).
 
 ## Contents ##
 
