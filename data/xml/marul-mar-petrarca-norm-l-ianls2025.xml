@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="marulus-m-carmina009">
+         <titleStmt>
+            <title>Ad Virginem beatam (Carmina Latina IX), versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q336571">
+               <persName xml:lang="hr">Marulić, Marko</persName>
+               <persName xml:lang="la">Marulus, Marcus</persName>
+               <date>1450-1524</date>
+            </author>
+            <editor>
+               <persName>
+                  <ref type="viaf" target="5178395">Bratislav Lučin</ref>
+               </persName>; <persName>
+                  <ref type="viaf" target="201922444">Darko Novaković</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+          
+            Prema modernom kritičkom izdanju (2005).
+          
+        </edition>
+         </editionStmt>
+         <extent ana="D">Mg:D 2206 versus, verborum 14802</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+          projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+          Hrvatska.  <date>2005</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>Marulić, Marko, Bratislav Lučin, i Darko Novaković. Latinski stihovi. Splitski književni krug. Split: Književni krug, 2005.</bibl>
+            <bibl>Lučin, Bratislav: Nepoznati Marulićev epigram u ostavštini don Mate Ivčevića. // Poslanje filologa; zbornik radova povodom 70. rođendana Mirka Tomasovića. Uredili Tomislav Bogdan i Cvijeta Pavlović, FF Press, Zagreb, 2008, str. 251-260</bibl>
+            <bibl>Francisco Javier Juez y Gálvez, Maruliana u Kolumbovoj knjižnici u Sevilli, Colloquia Maruliana, Vol.14 Travanj 2005. Str. 199 - 233</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <p/>
+         </settingDesc>
+         <particDesc>
+            <p/>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1477" period="14xx_3_third">1477-1522</date>
+            <placeName>Split</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>poesis</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>poesis - carmen</term>
+               <term>poesis - epigramma</term>
+               <term>poesis - epistula</term>
+               <term>poesis - hymnus</term>
+               <term>poesis - elegia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2014-06-26</date>
+        Izdvojio Dantea radi epike.
+      </change>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <persName>Luka Špoljarić</persName>
+            <date>2012-02-18</date>
+        Novo, unificirano zaglavlje.
+      </change>
+         <change>
+            <date>2010-09-15</date>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName> Addidi fragmentum panegyrici ad A. Dandulum e bibliotheca Colombina, Hispali.
+      </change>
+         <change>
+            <date>2010-08-29</date>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName> Aliud epitaphium Draxoevii addidi ex editione B. Lučin. Addidi notas metrorum, numeros versuum ut attributa notae l.
+      </change>
+         <change>
+            <date>2005-04-08T17:24:54</date>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanovic</ref>
+            </persName> revision </change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="urn:cts:croala:marulus-m.carmina009.croala-lat1:"
+         xml:lang="lat">
+      <front>
+         <head>
+            <w norm="PREPJEVI">PREPJEVI</w>
+         </head>
+      </front>
+      <body>
+         <div xml:id="C189">
+            <head>
+               <w norm="Ad">Ad</w>
+               <w norm="uirginem">Virginem</w>
+               <w norm="beatam">beatam</w>
+            </head>
+            <div>
+               <opener>
+                  <w norm="M">M</w>
+                  <pc>.</pc>
+                  <w norm="Marulus">Marulus</w>
+                  <w norm="Hieronimo">Hieronymo</w>
+                  <w norm="Papali">Papali</w>
+                  <w norm="salutem">salutem</w>
+                  <pc>.</pc>
+               </opener>
+               <p>
+                  <w norm="Nuper">Nuper</w>
+                  <w norm="petenti">petenti</w>
+                  <w norm="tibi">tibi</w>
+                  <w norm="ut">ut</w>
+                  <w norm="Francisci">Francisci</w>
+                  <w norm="Petrarche">Petrarchę</w>
+                  <pc>,</pc>
+                  <w norm="inter">inter</w>
+                  <w norm="Thuscos">Thuscos</w>
+                  <w norm="poetas">poetas</w>
+                  <w norm="facundissimi">facundissimi</w>
+                  <pc>,</pc>
+                  <w norm="de">de</w>
+                  <w norm="beata">beata</w>
+                  <w norm="Maria">Maria</w>
+                  <w norm="matre">matre</w>
+                  <w norm="semper">semper</w>
+                  <w norm="uirgine">uirgine</w>
+                  <w norm="cantilenam">cantilenam</w>
+                  <w norm="suo">suo</w>
+                  <w norm="uernaculo">uernaculo</w>
+                  <w norm="sermone">sermone</w>
+                  <w norm="compositam">compositam</w>
+                  <w norm="Latinam">Latinam</w>
+                  <w norm="facerem">facerem</w>
+                  <pc>,</pc>
+                  <w norm="negare">negare</w>
+                  <w norm="non">non</w>
+                  <w norm="potui">potui</w>
+                  <pc>,</pc>
+                  <w norm="licet">licet</w>
+                  <w norm="enim">enim</w>
+                  <w norm="partim">partim</w>
+                  <w norm="ingenii">ingenii</w>
+                  <w norm="eruditionisque">eruditionisque</w>
+                  <w norm="mee">meę</w>
+                  <w norm="paruitas">paruitas</w>
+                  <pc>,</pc>
+                  <w norm="partim">partim</w>
+                  <w norm="ipsa">ipsa</w>
+                  <w norm="uertendi">uertendi</w>
+                  <w norm="difficultas">difficultas</w>
+                  <w norm="ab">ab</w>
+                  <w norm="eo">eo</w>
+                  <w norm="me">me</w>
+                  <w norm="non">non</w>
+                  <w norm="parum">parum</w>
+                  <w norm="dehortarentur">dehortarentur</w>
+                  <pc>.</pc>
+                  <w norm="Sunt">Sunt</w>
+                  <w norm="quippe">quippe</w>
+                  <w norm="linguarum">linguarum</w>
+                  <w norm="proprietates">proprietates</w>
+                  <w norm="quedam">quędam</w>
+                  <w norm="ita">ita</w>
+                  <w norm="natura">natura</w>
+                  <w norm="comparate">comparatę</w>
+                  <w norm="ut">ut</w>
+                  <w norm="multa">multa</w>
+                  <w norm="que">quę</w>
+                  <w norm="in">in</w>
+                  <w norm="alio">alio</w>
+                  <w norm="idiomate">idiomate</w>
+                  <w norm="apte">apte</w>
+                  <pc>,</pc>
+                  <w norm="apposite">apposite</w>
+                  <w norm="lepideque">lepideque</w>
+                  <w norm="dicuntur">dicuntur</w>
+                  <w norm="in">in</w>
+                  <w norm="aliud">aliud</w>
+                  <w norm="conuersa">conuersa</w>
+                  <w norm="degenerare">degenerare</w>
+                  <w norm="uideantur">uideantur</w>
+                  <w norm="atque">atque</w>
+                  <w norm="deficere">deficere</w>
+                  <pc>.</pc>
+               </p>
+               <p>
+                  <w norm="Cum">Cum</w>
+                  <w norm="tamen">tamen</w>
+                  <w norm="hanc">hanc</w>
+                  <w norm="tuam">tuam</w>
+                  <w norm="postulationem">postulationem</w>
+                  <w norm="considerassem">consyderassem</w>
+                  <w norm="non">non</w>
+                  <w norm="nisi">nisi</w>
+                  <w norm="ab">ab</w>
+                  <w norm="animo">animo</w>
+                  <w norm="ipsi">ipsi</w>
+                  <w norm="sancte">sanctę</w>
+                  <w norm="deipare">deiparę</w>
+                  <w norm="uirgini">Virgini</w>
+                  <w norm="deditissimo">deditissimo</w>
+                  <w norm="proficisci">proficisci</w>
+                  <pc>,</pc>
+                  <w norm="quod">quod</w>
+                  <w norm="poscebas">poscebas</w>
+                  <w norm="recepi">recępi</w>
+                  <w norm="me">me</w>
+                  <w norm="facturum">facturum</w>
+                  <pc>.</pc>
+                  <w norm="Alioquin">Alioquin</w>
+                  <w norm="eandem">eandem</w>
+                  <w norm="ipsam">ipsam</w>
+                  <w norm="sanctorum">sanctorum</w>
+                  <w norm="omnium">omnium</w>
+                  <w norm="Dominam">Dominam</w>
+                  <w norm="offendere">offendere</w>
+                  <w norm="mihi">mihi</w>
+                  <w norm="uiderer">uiderer</w>
+                  <w norm="et">et</w>
+                  <w norm="tibi">tibi</w>
+                  <w norm="in">in</w>
+                  <w norm="amore">amore</w>
+                  <w norm="minus">minus</w>
+                  <w norm="respondere">respondere</w>
+                  <w norm="si">si</w>
+                  <w norm="talibus">talibus</w>
+                  <w norm="uotis">uotis</w>
+                  <w norm="tuis">tuis</w>
+                  <pc>,</pc>
+                  <w norm="tam">tam</w>
+                  <w norm="iustis">iustis</w>
+                  <pc>,</pc>
+                  <w norm="tam">tam</w>
+                  <w norm="piis">piis</w>
+                  <pc>,</pc>
+                  <w norm="refragari">refragari</w>
+                  <w norm="uoluissem">uoluissem</w>
+                  <pc>.</pc>
+                  <w norm="Accipe">Accipe</w>
+                  <w norm="igitur">igitur</w>
+                  <w norm="a">a</w>
+                  <w norm="me">me</w>
+                  <w norm="munusculum">munusculum</w>
+                  <w norm="quod">quod</w>
+                  <w norm="promiseram">promiseram</w>
+                  <pc>,</pc>
+                  <w norm="elego">elego</w>
+                  <w norm="carmine">carmine</w>
+                  <w norm="utcumque">utcunque</w>
+                  <w norm="concinatum">concinatum</w>
+                  <w norm="et">et</w>
+                  <pc>,</pc>
+                  <w norm="si">si</w>
+                  <w norm="cithara">cythara</w>
+                  <w norm="tua">tua</w>
+                  <pc>,</pc>
+                  <w norm="qua">qua</w>
+                  <w norm="cum">cum</w>
+                  <w norm="Musis">Musis</w>
+                  <w norm="posses">posses</w>
+                  <w norm="contendere">contendere</w>
+                  <pc>,</pc>
+                  <w norm="minus">minus</w>
+                  <w norm="fortasse">fortasse</w>
+                  <w norm="dignum">dignum</w>
+                  <pc>,</pc>
+                  <w norm="at">at</w>
+                  <w norm="tamen">tamen</w>
+                  <w norm="ab">ab</w>
+                  <w norm="amicitia">amicicia</w>
+                  <w norm="nostra">nostra</w>
+                  <w norm="non">non</w>
+                  <w norm="alienum">alienum</w>
+                  <pc>,</pc>
+                  <w norm="quando">quando</w>
+                  <w norm="quidem">quidem</w>
+                  <w norm="non">non</w>
+                  <w norm="tam">tam</w>
+                  <w norm="opera">opera</w>
+                  <w norm="amicorum">amicorum</w>
+                  <w norm="estimanda">ęstimanda</w>
+                  <w norm="sunt">sunt</w>
+                  <w norm="quam">quam</w>
+                  <w norm="animus">animus</w>
+                  <pc>.</pc>
+                  <w norm="Exiguum">Exiguum</w>
+                  <w norm="etiam">etiam</w>
+                  <w norm="magni">magni</w>
+                  <w norm="beneficii">beneficii</w>
+                  <w norm="loco">loco</w>
+                  <w norm="habendum">habendum</w>
+                  <w norm="est">est</w>
+                  <pc>,</pc>
+                  <w norm="quicquid">quicquid</w>
+                  <w norm="pro">pro</w>
+                  <w norm="uiribus">uiribus</w>
+                  <w norm="prestatur">pręstatur</w>
+                  <pc>.</pc>
+               </p>
+               <p>
+                  <w norm="Tu">Tu</w>
+                  <w norm="si">si</w>
+                  <w norm="quam">quam</w>
+                  <w norm="mihi">mihi</w>
+                  <w norm="gratiam">gratiam</w>
+                  <w norm="referre">referre</w>
+                  <w norm="curabis">curabis</w>
+                  <pc>,</pc>
+                  <w norm="ea">ea</w>
+                  <w norm="erit">erit</w>
+                  <w norm="cumulatissima">cumulatissima</w>
+                  <w norm="si">si</w>
+                  <w norm="eidem">eidem</w>
+                  <w norm="uirgini">Virgini</w>
+                  <pc>,</pc>
+                  <w norm="cui">cui</w>
+                  <w norm="te">te</w>
+                  <w norm="penitus">penitus</w>
+                  <w norm="mancipatum">mancipatum</w>
+                  <w norm="uideo">uideo</w>
+                  <pc>,</pc>
+                  <w norm="me">me</w>
+                  <w norm="plurimum">plurimum</w>
+                  <w norm="commendes">commendes</w>
+                  <pc>,</pc>
+                  <w norm="tum">tum</w>
+                  <w norm="etiam">etiam</w>
+                  <w norm="si">si</w>
+                  <w norm="in">in</w>
+                  <w norm="decantandis">decantandis</w>
+                  <w norm="uersiculis">uersiculis</w>
+                  <w norm="istis">istis</w>
+                  <w norm="tuum">tuum</w>
+                  <w norm="acroma">acroma</w>
+                  <pc>,</pc>
+                  <w norm="tuos">tuos</w>
+                  <w norm="phtongos">phtongos</w>
+                  <pc>,</pc>
+                  <w norm="rithmos">rithmos</w>
+                  <pc>,</pc>
+                  <w norm="tonos">tonos</w>
+                  <w norm="tuumque">tuumque</w>
+                  <w norm="melos">melos</w>
+                  <w norm="exerceas">exerceas</w>
+                  <pc>,</pc>
+                  <w norm="minime">minime</w>
+                  <w norm="quidem">quidem</w>
+                  <w norm="ad">ad</w>
+                  <w norm="meorum">meorum</w>
+                  <w norm="humilitatem">humilitatem</w>
+                  <w norm="ineptitudinemque">ineptitudinemque</w>
+                  <w norm="uerborum">uerborum</w>
+                  <w norm="respiciens">respiciens</w>
+                  <pc>,</pc>
+                  <w norm="sed">sed</w>
+                  <w norm="ipsius">ipsius</w>
+                  <pc>,</pc>
+                  <w norm="cui">cui</w>
+                  <w norm="dicata">dicata</w>
+                  <w norm="sunt">sunt</w>
+                  <pc>,</pc>
+                  <w norm="sanctitudinem">sanctitudinem</w>
+                  <w norm="maiestatemque">maiestatemque</w>
+                  <w norm="contemplans">contemplans</w>
+                  <pc>.</pc>
+                  <w norm="Id">Id</w>
+                  <w norm="si">si</w>
+                  <w norm="feceris">feceris</w>
+                  <pc>,</pc>
+                  <w norm="non">non</w>
+                  <w norm="Orphea">Orphea</w>
+                  <w norm="non">non</w>
+                  <w norm="Linum">Lynum</w>
+                  <w norm="non">non</w>
+                  <w norm="Thamiram">Thamiram</w>
+                  <w norm="non">non</w>
+                  <w norm="Amphionem">Amphionem</w>
+                  <pc>,</pc>
+                  <w norm="neque">neque</w>
+                  <w norm="Echiona">Echiona</w>
+                  <w norm="neque">neque</w>
+                  <w norm="Ariona">Ariona</w>
+                  <w norm="neque">neque</w>
+                  <w norm="Demodocum">Demodocum</w>
+                  <w norm="neque">neque</w>
+                  <w norm="Terpandrum">Terpandrum</w>
+                  <pc>,</pc>
+                  <w norm="nec">nec</w>
+                  <w norm="Simonidem">Simonidem</w>
+                  <w norm="nec">nec</w>
+                  <w norm="Timotheum">Timotheum</w>
+                  <w norm="nec">nec</w>
+                  <w norm="crinitum">crinitum</w>
+                  <w norm="a">a</w>
+                  <w norm="uergilio">Vergilio</w>
+                  <w norm="nostro">nostro</w>
+                  <w norm="Iopam">Iopam</w>
+                  <w norm="desiderabimus">desyderabimus</w>
+                  <pc>.</pc>
+                  <w norm="Tu">Tu</w>
+                  <w norm="unus">unus</w>
+                  <w norm="pro">pro</w>
+                  <w norm="omnibus">omnibus</w>
+                  <w norm="satis">satis</w>
+                  <w norm="eris">eris</w>
+                  <pc>.</pc>
+               </p>
+               <closer>
+                  <w norm="uale">Vale</w>
+                  <pc>!</pc>
+               </closer>
+            </div>
+            <div met="elegiacum" type="poesis-elegia-versio">
+               <head>
+                  <w norm="Ad">Ad</w>
+                  <w norm="uirginem">Virginem</w>
+                  <w norm="beatam">beatam</w>
+               </head>
+               <l n="VB.1">O prestans facie uirgo , quam clara coronant</l>
+               <l n="VB.2">Sidera , que radiis Solis amicta nites ,</l>
+               <l n="VB.3">Sol summus casto quam sic dilexit amore</l>
+               <l n="VB.4">Luminis ut plenam iusserit esse sui :</l>
+               <l n="VB.5">Et me cogit amor laudes Tibi dicere cantu ,</l>
+               <l n="VB.6">Id tamen absque Tua Musa pauescit ope .</l>
+               <l n="VB.7">Ergo , precor , faueas ; nescis Tu uota precantum</l>
+               <l n="VB.8">Spernere , commendat quos Tibi uera fides .</l>
+               <l n="VB.9">Si Te igitur nostri fortuna miserrima tangit ,</l>
+               <l n="VB.10">Nunc aures precibus pande benigna meis .</l>
+               <l n="VB.11">Nunc sorti succurre mee , regina superni</l>
+               <l n="VB.12">Sis licet imperii , sim cinis ipse licet .</l>
+               <l n="VB.13">O sapiens uirgo prudentumque agminis una</l>
+               <l n="VB.14">Primaque uirgineos inter habenda choros ,</l>
+               <l n="VB.15">O fidum miseris atque impenetrabile scutum</l>
+               <l n="VB.16">Contra fortune tela minasque necis ,</l>
+               <l n="VB.17">O fessi requies animi certumque leuamen</l>
+               <l n="VB.18">His quorum mentem feruida cura coquit :</l>
+               <l n="VB.19">Illos , queso , oculos quibus expirantia nati</l>
+               <l n="VB.20">Ora uidens flebas icta dolore graui</l>
+               <l n="VB.21">Ad sortis conuerte mee seriemque statumque ,</l>
+               <l n="VB.22">Meque Tuo auxilio consilioque iuua .</l>
+               <l n="VB.23">O splendore micans cunctorum uirgo bonorum</l>
+               <l n="VB.24">Editaque ex illo cuius es alma parens ,</l>
+               <l n="VB.25">Presentis uite lumen lumenque future ,</l>
+               <l n="VB.26">Ianua stelliferi semper aperta poli ,</l>
+               <l n="VB.27">Filius ille Tuus , uirgo , Regisque deorum</l>
+               <l n="VB.28">Aetheria ad nostras uenit ab arce domos</l>
+               <l n="VB.29">Teque unam elegit per quam conuerteret Eue</l>
+               <l n="VB.30">In lusum planctus inque iocos lachrimas .</l>
+               <l n="VB.31">Ergo Tui nati tanto me munere dignum</l>
+               <l n="VB.32">Effice , nanque Tibi talia posse dedit .</l>
+               <l n="VB.33">Iam Tu gemmato regni diademate fulges ,</l>
+               <l n="VB.34">Iam Tibi submittunt castra superna caput .</l>
+               <l n="VB.35">Mens humilis super alta tulit Te culmina celi ,</l>
+               <l n="VB.36">Quo , precor , ascendant quas Tibi fundo preces .</l>
+               <l n="VB.37">De Te fons placida manans pietate repleuit</l>
+               <l n="VB.38">Terrarum uacuo quicquid in orbe patet .</l>
+               <l n="VB.39">De Te iustitie Sol ortus nocte fugata</l>
+               <l n="VB.40">Inuexit ueri dogmatis ecce diem .</l>
+               <l n="VB.41">Filia , sponsa , parens : tria nomina colligis in Te ,</l>
+               <l n="VB.42">Tanta Tibi merito sunt data dona Tuo ,</l>
+               <l n="VB.43">Tu magni superum Regis dignissima mater ,</l>
+               <l n="VB.44">Qui soluit duro secula nostra iugo</l>
+               <l n="VB.45">Et libertatis donauit munere mundum</l>
+               <l n="VB.46">uinclisque ereptos duxit ad astra patres .</l>
+               <l n="VB.47">Eius , queso , meum transfigas uulnere pectus</l>
+               <l n="VB.48">Quo magis hunc qui me tam bene amauit amem .</l>
+               <l n="VB.49">Te gentes populique omnes mirantur et omnis</l>
+               <l n="VB.50">Te pariter diuum turba uerenda stupet ,</l>
+               <l n="VB.51">Nanque Tibi similis sanctarum nulla dearum</l>
+               <l n="VB.52">Esse potest , primi sit licet illa chori .</l>
+               <l n="VB.53">Te casti mores , humilis mens , gestus honestus</l>
+               <l n="VB.54">Et semper sacro pectus amore flagrans</l>
+               <l n="VB.55">Effecere quidem dignam que sola maneres</l>
+               <l n="VB.56">Perpetuum magni numinis hospitium .</l>
+               <l n="VB.57">Esse igitur poterit per Te mea libera uita</l>
+               <l n="VB.58">Tantis quas patior solicitudinibus ,</l>
+               <l n="VB.59">Si tamen in nobis , seges est ubi multa malorum ,</l>
+               <l n="VB.60">Germinet oratu gratia multa Tuo .</l>
+               <l n="VB.61">Hinc humilis flexoque genu Te postulo supplex</l>
+               <l n="VB.62">ut mihi sis uite duxque comesque mee</l>
+               <l n="VB.63">utque meos gressus per deuia lustra uagantes</l>
+               <l n="VB.64">Compellas recti tramitis ire uiam .</l>
+               <l n="VB.65">uirgo potens lucis , tenebrarum nescia , nostre</l>
+               <l n="VB.66">Fluctibus in mediis sidus et aura ratis ,</l>
+               <l n="VB.67">Aspice quam seue feriant mea uela procelle</l>
+               <l n="VB.68">Concutiantque meum quanta pericla caput .</l>
+               <l n="VB.69">Affer opem misero , lasso succurre clienti ,</l>
+               <l n="VB.70">Auxilium tardet iam mora nulla Tuum .</l>
+               <l n="VB.71">Exigit hoc etas : albent mea tempora canis ,</l>
+               <l n="VB.72">Pallent ora , cutem ruga senilis arat ,</l>
+               <l n="VB.73">Caligant oculi , patule , surdescitis , aures ,</l>
+               <l n="VB.74">uix geritis , tremuli , dorsa repanda , pedes .</l>
+               <l n="VB.75">Denique ad extremos eui peruenimus annos ,</l>
+               <l n="VB.76">Nec tamen auxilii spes mihi parua Tui est .</l>
+               <l n="VB.77">Peccaui , fateor ( quis enim sine crimine uiuit ? ) ,</l>
+               <l n="VB.78">Sed rogo ut ipsa meis iam medeare malis ,</l>
+               <l n="VB.79">Ne super his Coluber possit ridere superbus</l>
+               <l n="VB.80">Meque Tuam frustra poscere dicat opem .</l>
+               <l n="VB.81">Tanquam non semper promptum Tibi soluere uinctos ,</l>
+               <l n="VB.82">Aut non concessum iustificare reos !</l>
+               <l n="VB.83">Quin potius sis , uirgo , memor quia culpa reorum</l>
+               <l n="VB.84">Te matrem ueri fecerit esse Dei .</l>
+               <l n="VB.85">Exiit humanis indutus carnibus ille</l>
+               <l n="VB.86">Quas de uisceribus traxerat ecce Tuis</l>
+               <l n="VB.87">Et Tibi dona dedit nulli donata priorum ,</l>
+               <l n="VB.88">ut sis intacta uirginitate parens .</l>
+               <l n="VB.89">uide igitur quantis impleui questibus auras ,</l>
+               <l n="VB.90">Quales heu gemitus corde dolente dedi ,</l>
+               <l n="VB.91">Quos lusus qualesque preces , quot carmina frustra</l>
+               <l n="VB.92">Effudi fragili captus amore miser .</l>
+               <l n="VB.93">Immo ex quo genitum ripis tulit Arnus Ethruscis ,</l>
+               <l n="VB.94">Nulla fuit nobis absque labore dies .</l>
+               <l n="VB.95">Nunc has , nunc illas partes peragrauimus orbis</l>
+               <l n="VB.96">Per terras , per aquas perque pericla maris .</l>
+               <l n="VB.97">Deinde decus forme mortalis , dulcia uerba</l>
+               <l n="VB.98">Et motus casti signa pudoris habens</l>
+               <l n="VB.99">Inuasere meum feruenti pectus amore</l>
+               <l n="VB.100">Subiectumque suo detinuere iugo .</l>
+               <l n="VB.101">Iam , quoniam teritur tempus mihi , Diua , supremum ,</l>
+               <l n="VB.102">Ne cessa rebus consuluisse meis .</l>
+               <l n="VB.103">Ecce dies nostri per plurima crimina lapsi</l>
+               <l n="VB.104">Hei mihi quam celeri preteriere fuga !</l>
+               <l n="VB.105">Tam cito Threicio cornu uolat acta sagitta ,</l>
+               <l n="VB.106">uentorum rapidus tam cito turbo uolat .</l>
+               <l n="VB.107">Preteriere dies , mors nigris obstrepit alis</l>
+               <l n="VB.108">Et curuam falcem iam furibunda quatit .</l>
+               <l n="VB.109">Hinc rogo , me tanto subtractum , uirgo , periclo</l>
+               <l n="VB.110">Dirige per uite iam melioris iter .</l>
+               <l n="VB.111">Illa ego quam quondam totis affectibus arsi</l>
+               <l n="VB.112">Occidit et gelido marmore tecta iacet ,</l>
+               <l n="VB.113">Et mea decedens affecit corda dolore ,</l>
+               <l n="VB.114">Corda sed hec semper flere iubebat amor ,</l>
+               <l n="VB.115">Milleque me uario iactabant turbine cure ,</l>
+               <l n="VB.116">Illa sed unius nescia semper erat .</l>
+               <l n="VB.117">Quam quoque si nosset , numquid non firma manerent ,</l>
+               <l n="VB.118">Que coluit semper iura pudicitie ?</l>
+               <l n="VB.119">Quod nisi certa foret caste sententia mentis ,</l>
+               <l n="VB.120">Dedecus hausisset illa , sed ipse necem .</l>
+               <l n="VB.121">Nunc Tu , siderei dominatrix maxima mundi ,</l>
+               <l n="VB.122">Tu dea , si fas est Te uocitare deam ,</l>
+               <l n="VB.123">Tu uirtute potens , alte Tu munere mentis</l>
+               <l n="VB.124">Predita , Tu cunctis condecorata bonis ,</l>
+               <l n="VB.125">Da mihi quod per se non nostra potentia pollet ,</l>
+               <l n="VB.126">ut mea iam cesset corda agitare dolor ,</l>
+               <l n="VB.127">utque uelim quod uelle decet , quia certa salutis</l>
+               <l n="VB.128">Spes erit inde mihi , gloria magna Tibi .</l>
+               <l n="VB.129">Nam Tibi posse datum quantum Tibi uelle supersit ,</l>
+               <l n="VB.130">Erigere afflictos , premia ferre piis .</l>
+               <l n="VB.131">Nec tamen ut magni me pendas , posco , sed illum</l>
+               <l n="VB.132">Qui nos ipse suam fecit ad effigiem ,</l>
+               <l n="VB.133">Nec quam uilis ego spectes , sed quantus ubique est</l>
+               <l n="VB.134">Non dedignatur qui meus esse pater .</l>
+               <l n="VB.135">Maiestas immensa Dei nostrique Tuique</l>
+               <l n="VB.136">Te facilem prestet propiciamque magis .</l>
+               <l n="VB.137">Mens animusque mihi stupuit ceu Gorgone uisa ,</l>
+               <l n="VB.138">Sed tamen assiduis fletibus ora madent ,</l>
+               <l n="VB.139">Fletibus heu cassis ; sed Tu , sanctissima uirgo ,</l>
+               <l n="VB.140">Imple , precor , lachrimis uiscera nostra piis ,</l>
+               <l n="VB.141">ultimus ut saltem maeror mihi non sit inanis ,</l>
+               <l n="VB.142">Nec qui coenosis commaculetur aquis ,</l>
+               <l n="VB.143">Sed purus nitidusque fluens simul abluat omnes</l>
+               <l n="VB.144">Erroris maculas munditiemque paret ,</l>
+               <l n="VB.145">Et sese ad uoti referens primordia nostri</l>
+               <l n="VB.146">Exoret pacem iam mihi perpetuam .</l>
+               <l n="VB.147">uirgo fouens humiles meritoque perosa superbos ,</l>
+               <l n="VB.148">Tangat Te nostre conditionis amor .</l>
+               <l n="VB.149">Principium commune hominum Te flectat ut istam</l>
+               <l n="VB.150">Iam Tibi deuotam suscipias animam ,</l>
+               <l n="VB.151">Que , si mortalis labentia munera forme</l>
+               <l n="VB.152">Cum tanta ac tali nouit amare fide ,</l>
+               <l n="VB.153">Nonne magis sacri decus amplexabitur oris</l>
+               <l n="VB.154">Cuius et ipse Deus captus amore fuit ?</l>
+               <l n="VB.155">Si mihi forte Tue dabit alta potentia dextre</l>
+               <l n="VB.156">Fortune ut cursu prosperiore fruar ,</l>
+               <l n="VB.157">Ingenium , linguam , calamum , suspiria , fletum ,</l>
+               <l n="VB.158">Cor , curas omnes , uirgo , dicabo Tibi .</l>
+               <l n="VB.159">Ergo magis tuta timidam statione carinam</l>
+               <l n="VB.160">Siste , diu ualidis illa feritur aquis ,</l>
+               <l n="VB.161">Et noua mutate uerso moderamine mentis</l>
+               <l n="VB.162">uota uidens placidis nutibus illa foue .</l>
+               <l n="VB.163">Aduentat suprema dies , discrimine paruo</l>
+               <l n="VB.164">A gelido dure limine mortis abest .</l>
+               <l n="VB.165">Sic properant anni , fugit etas , tempora semper</l>
+               <l n="VB.166">Prepetibus pennis irrequieta uolant .</l>
+               <l n="VB.167">Interea stimulis mea mens agitatur amaris</l>
+               <l n="VB.168">Conscia delicti iustitieque memor .</l>
+               <l n="VB.169">At Tu , Diua , omnes uincens pietate fideque</l>
+               <l n="VB.170">Quascumque etherii continet aula poli ,</l>
+               <l n="VB.171">Me commendatum , mater mitissima , nato</l>
+               <l n="VB.172">Redde Tuo ( precibus annuet ille Tuis )</l>
+               <l n="VB.173">ut , quem credentes hominemque Deumque fatemur ,</l>
+               <l n="VB.174">Hic felix adsit propiciusque mihi ,</l>
+               <l n="VB.175">Et cum finis erit , celestia limina pandat</l>
+               <l n="VB.176">Egredienti anime spirituique meo .</l>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

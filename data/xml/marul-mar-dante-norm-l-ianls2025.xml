@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="marul-mar-dante">
+         <titleStmt>
+            <title>Principium operis Dantis Aligerii de Fluentino sermone in Latinum conuersum, versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q336571" role="trl">
+               <persName xml:lang="hr">Marulić, Marko</persName>
+               <date>1450-1524</date>
+            </author>
+            <author ref="http://www.wikidata.org/entity/Q1067">
+               <persName xml:lang="hr" ref="viaf97105654">Dante Alighieri</persName>
+               <date>1265-1321</date>
+            </author>
+            <editor>
+               <persName>
+                  <ref>Bratislav Lučin</ref>
+               </persName>; <persName>
+                  <ref>Darko Novaković</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+          
+            Prema modernom kritičkom izdanju (2005).
+          
+        </edition>
+         </editionStmt>
+         <extent ana="B">Mg:B 138 versus, verborum 974</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Hrvatska latinistička epika, znanstveni
+          projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+          Hrvatska.  <date when="2014-06">Lipnja 2014</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>Marulić, Marko, Bratislav Lučin, i Darko Novaković. Latinski stihovi. Splitski književni krug. Split: Književni krug, 2005.</bibl>
+            <bibl>Lučin, Bratislav: Nepoznati Marulićev epigram u ostavštini don Mate Ivčevića. // Poslanje filologa; zbornik radova povodom 70. rođendana Mirka Tomasovića. Uredili Tomislav Bogdan i Cvijeta Pavlović, FF Press, Zagreb, 2008, str. 251-260</bibl>
+            <bibl>Francisco Javier Juez y Gálvez, Maruliana u Kolumbovoj knjižnici u Sevilli, Colloquia Maruliana, Vol.14 Travanj 2005. Str. 199 - 233</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <p/>
+         </settingDesc>
+         <particDesc>
+            <p/>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1510" period="15xx_1_third">1510</date>
+            <placeName>Split</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>poesis</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>poesis - epica</term>
+               <term>poesis - versio</term>
+               <term>poesis - fragmentum</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2014-06-26</date>
+        Izdvojio radi epike.
+      </change>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <persName>Luka Špoljarić</persName>
+            <date>2012-02-18</date>
+        Novo, unificirano zaglavlje.
+      </change>
+         <change>
+            <date>2010-09-15</date>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName> Addidi fragmentum panegyrici ad A. Dandulum e bibliotheca Colombina, Hispali.
+      </change>
+         <change>
+            <date>2010-08-29</date>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName> Aliud epitaphium Draxoevii addidi ex editione B. Lučin. Addidi notas metrorum, numeros versuum ut attributa notae l.
+      </change>
+         <change>
+            <date>2005-04-08T17:24:54</date>
+            <persName>Neven Jovanovic</persName> revision </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="C190" met="hexameter" type="poesis-epica-versio-fragmentum">
+            <head>
+               <w norm="190">190</w>
+               <pc>.</pc>
+               <w norm="Principium">Principium</w>
+               <w norm="operis">operis</w>
+               <w norm="Dantis">Dantis</w>
+               <w norm="Aligerii">Aligerii</w>
+               <w norm="de">de</w>
+               <w norm="Fluentino">Fluentino</w>
+               <w norm="sermone">sermone</w>
+               <w norm="in">in</w>
+               <w norm="Latinum">Latinum</w>
+               <w norm="conuersum">conuersum</w>
+            </head>
+            <l n="Dante.1">Humane spatium uite concesserat etas</l>
+            <l n="Dante.2">Iam medium tenerosque mihi subduxerat annos ,</l>
+            <l n="Dante.3">Per loca quum tenebris obscura atque aspera siluis</l>
+            <l n="Dante.4">Me miserum errantem sensi gressuque represso</l>
+            <l n="Dante.5">Incertusque uie mentem confusus inhesi</l>
+            <l n="Dante.6">Et circumlustraui oculis pauitantibus . Horror</l>
+            <l n="Dante.7">Non tantum spectasse fuit : memorando pauoris</l>
+            <l n="Dante.8">Offertur facies et adhuc conterrita pulsat</l>
+            <l n="Dante.9">Corda metus ; uix ipsa magis mihi dura uideri</l>
+            <l n="Dante.10">Mors et acerba potest . Sed enim nec inutile demum</l>
+            <l n="Dante.11">Illa referre reor , quum spes oblata salutis</l>
+            <l n="Dante.12">Erexit mentem , que uidi . Non tamen atris</l>
+            <l n="Dante.13">Quomodo me siluis anceps incluserat error</l>
+            <l n="Dante.14">Scire datum captumque oculis sopor altus habebat</l>
+            <l n="Dante.15">Quum rectum rationis egens iter ipse reliqui .</l>
+            <l n="Dante.16">At postquam siluis egressus tristibus alto</l>
+            <l n="Dante.17">Me sub colle tuli , surgentis lumina solis ,</l>
+            <l n="Dante.18">Solis , iter uerum claro qui detegit ortu ,</l>
+            <l n="Dante.19">Suspiciens montis dorsum splendescere uidi .</l>
+            <l n="Dante.20">Paulatim cessere metus qui noctis abacte</l>
+            <l n="Dante.21">Cum gemitu gelido quassarant turbine mentem .</l>
+            <l n="Dante.22">utque feris ereptus aquis pluuiaque procella</l>
+            <l n="Dante.23">Littus ad optatum qui uenit , pectus anhellum</l>
+            <l n="Dante.24">Fessus adhuc , tumidas cum lumina torquet ad undas</l>
+            <l n="Dante.25">Et stupet insanos ponti quos pertulit estus ,</l>
+            <l n="Dante.26">Sic ego adhuc fugiens oculis post terga reductis</l>
+            <l n="Dante.27">Spectabam uix credens euasisse per illam</l>
+            <l n="Dante.28">Erroris uallem , uallem euasisse per illam ,</l>
+            <l n="Dante.29">Que tulit innumeris lethum , sic fumat opacam</l>
+            <l n="Dante.30">Exhalans nebulam et fuscans caligine celum .</l>
+            <l n="Dante.31">ut licuit placida corpus releuare quiete ,</l>
+            <l n="Dante.32">Collis inaccessi sublatis gressibus alte</l>
+            <l n="Dante.33">Corripuisse uiam pergo . uix limina adibam</l>
+            <l n="Dante.34">Linx =Prima iugi , linx ecce leuis distinctaque mille</l>
+            <l n="Dante.35">Terga super maculis uillos arrexit et acrem</l>
+            <l n="Dante.36">Intendit uisum , subitoque accensa furore</l>
+            <l n="Dante.37">Fertur in aduersum : stat contra atque obuia terret</l>
+            <l n="Dante.38">Et coeptam uetat ire uiam prorsusque resistit ,</l>
+            <l n="Dante.39">usque adeo quod certa mihi mens sepius esset</l>
+            <l n="Dante.40">Retro ferre pedem uersoque recedere tergo .</l>
+            <l n="Dante.41">Tempus erat quo prima diem lux aduehit almum ,</l>
+            <l n="Dante.42">Occiduas umbram terre quum trudit ad oras ,</l>
+            <l n="Dante.43">Scandebatque polum Titan comitantibus astris</l>
+            <l n="Dante.44">Proxima que radiis percussit quando supremo</l>
+            <l n="Dante.45">Artifici placuit rerum producere formas</l>
+            <l n="Dante.46">Et totum ex nihilo conficere . Temporis huius</l>
+            <l n="Dante.47">ut status in mentem uenit , decernere pugna</l>
+            <l n="Dante.48">Spes mihi uincendi suasit . Spem turbat eandem</l>
+            <l n="Dante.49">Leo =Alterius monstri terror . Nam qualis in aruis</l>
+            <l n="Dante.50">Alcide occurrit Nemees leo , talis hiantes</l>
+            <l n="Dante.51">Erecta ceruice ferox expandere rictus</l>
+            <l n="Dante.52">Me contra mihi uisus erat . Mox seuior illo</l>
+            <l n="Dante.53">Lupa =Et longa macilenta fame , saturabilis haustu</l>
+            <l n="Dante.54">Non ullo lupa , multorum quoque conscia luctus</l>
+            <l n="Dante.55">Et preceps fecisse nefas sic perculit acri</l>
+            <l n="Dante.56">Turbatam uisu mentem mihi , cogeret ut iam</l>
+            <l n="Dante.57">Desperare uiam surgentis in ethera saxi .</l>
+            <l n="Dante.58">Comparatio ut tristatur opes belli sibi tempore raptas</l>
+            <l n="Dante.59">Quesiuit studio qui rem curaque perenni ,</l>
+            <l n="Dante.60">Sic dolui uincente fera ; nanque alta petentem</l>
+            <l n="Dante.61">In siluas iterum pellebat sole carentis .</l>
+            <l n="Dante.62">Dum ruerem , sese ante oculos incognita nostros</l>
+            <l n="Dante.63">Effigies offerre uiri miserantis iniquum</l>
+            <l n="Dante.64">Casum uisa mihi . » Corpus seu corporis « , inquam ,</l>
+            <l n="Dante.65">» umbra uenis , succurre , precor , succurre cadenti ! «</l>
+            <l n="Dante.66">» Corpus et umbra fui , sed tantum corporis umbram</l>
+            <l n="Dante.67">Nunc me cernis « , ait . » Latia de gente parentes</l>
+            <l n="Dante.68">Ambo fuere mihi . Que moenia condidit Ocnus ,</l>
+            <l n="Dante.69">His natale solum . Rexit quum Iulius orbem ,</l>
+            <l n="Dante.70">Natus ego . uixi Rome quum secla redisse</l>
+            <l n="Dante.71">Aurea Saturni plebis uox una patrumque</l>
+            <l n="Dante.72">Augusto rectore fuit . Nec cesserat error</l>
+            <l n="Dante.73">Gentis adhuc coluisse deos . Mihi serta ferebant</l>
+            <l n="Dante.74">Laurea Parnasi gemino de uertice Muse .</l>
+            <l n="Dante.75">Arma , uirum cecini Troie qui primus ab oris</l>
+            <l n="Dante.76">Aduenit Danao cecidit quum Pergamon igni .</l>
+            <l n="Dante.77">Sed que te mala mens tantos iterare labores</l>
+            <l n="Dante.78">Auersum cogit ? Montis iuga leta beati</l>
+            <l n="Dante.79">Scandere quid refugis ? uere , mihi crede , quietis</l>
+            <l n="Dante.80">Hic aditus primus , cunctorum hic causa bonorum est . «</l>
+            <l n="Dante.81">( sic dicere uatis</l>
+            <l n="Dante.82">Occursu attonitus coepi ) , » tu ne ille diserti</l>
+            <l n="Dante.83">Oris inexhaustus torrens ? O gloria uatum ,</l>
+            <l n="Dante.84">Prosit honos prositque tue mihi cura Camene ,</l>
+            <l n="Dante.85">Et labor assiduus studiumque perenne legendi !</l>
+            <l n="Dante.86">Tu das unde meos ualeam componere uersus ,</l>
+            <l n="Dante.87">Quos uulgata uehit mecum super ethera fama .</l>
+            <l n="Dante.88">Respice portentum quod me dare terga coegit ,</l>
+            <l n="Dante.89">Affer opem misero , tanto me tolle periclo</l>
+            <l n="Dante.90">Exanimemque iuua si spes est ulla salutis . «</l>
+            <l n="Dante.91">Ille sub hec : » Opus est alio conuertere gressum</l>
+            <l n="Dante.92">Si te summa iuuant . Nam non sinit improba pestis</l>
+            <l n="Dante.93">Carpere iter qua se opposuit , sed corpora gaudet</l>
+            <l n="Dante.94">Obuia queque uirum sedes detrudere ad imas .</l>
+            <l n="Dante.95">Hec nullo saturata malo ieiunia sentit</l>
+            <l n="Dante.96">Acrius exhausit quo plura nec ullus edendi</l>
+            <l n="Dante.97">Est modus . Huius item cubitus animalia diros</l>
+            <l n="Dante.98">Multa petunt et multa petent , tam ceca libido est ,</l>
+            <l n="Dante.99">Donec in hanc celerem soluet grauis ira Molossum ,</l>
+            <l n="Dante.100">Quo mordente cadet . Non illum iugera campi ,</l>
+            <l n="Dante.101">Eruta non illum pascent tellure metalla ,</l>
+            <l n="Dante.102">Sed uirtus , sed amor , sed non sapientia fallax .</l>
+            <l n="Dante.103">Aerias linquet nubes humilemque uolabit</l>
+            <l n="Dante.104">Italiam supra , quam propter uirgo Camilla</l>
+            <l n="Dante.105">Bellando oppetiit , quam propter fortis in armis</l>
+            <l n="Dante.106">Turnus et ipsa pii notissima nomina amoris ,</l>
+            <l n="Dante.107">Nisus et Eurialus . Primi hinc exordia cursus</l>
+            <l n="Dante.108">Sumet et hoc monstrum campos atque oppida circum</l>
+            <l n="Dante.109">Indefessus aget donec depellat ad antri</l>
+            <l n="Dante.110">Tartarei latebras , unde hec emissa superne</l>
+            <l n="Dante.111">Bellua ab Inuidia terras atque equora late</l>
+            <l n="Dante.112">Infecit tabo sparsitque uenena per orbem .</l>
+            <l n="Dante.113">Interea tu parce metu , compesce querelas</l>
+            <l n="Dante.114">Et me pone sequens mea iam uestigia serua !</l>
+            <l n="Dante.115">Hinc ego te per regna traham pallentia Ditis</l>
+            <l n="Dante.116">umbrarumque domos , ubi semper triste reorum</l>
+            <l n="Dante.117">Lamentum fremit , infelix ubi personat horror .</l>
+            <l n="Dante.118">Expediet uidisse semel . Mox impia linquens</l>
+            <l n="Dante.119">Tartara te ad manes adsistam protinus illos</l>
+            <l n="Dante.120">Iniocunda quibus non sunt tormenta nec ignis ,</l>
+            <l n="Dante.121">Criminibus quoniam post secula certa piatis</l>
+            <l n="Dante.122">Sidereas penetrant sedes et regna beatum .</l>
+            <l n="Dante.123">Ad que , siqua tibi suberit properare cupido ,</l>
+            <l n="Dante.124">Dignior hac anima recto te tramite ducet .</l>
+            <l n="Dante.125">Illi ego te cedam discedens ; me uetat illuc</l>
+            <l n="Dante.126">Ire Deus prohibetque suum conscendere Olimpum</l>
+            <l n="Dante.127">Neglecti ob noxam ritus morisque sacrorum .</l>
+            <l n="Dante.128">Quippe colendus erat quando protendit in omnes</l>
+            <l n="Dante.129">Imperium partes , quando sua regia celum est .</l>
+            <l n="Dante.130">O felix quemcumque legit sua sidera supra ! «</l>
+            <l n="Dante.131">His animum dictis mihi reddidit , hac ego tanta</l>
+            <l n="Dante.132">Spe feruens refero : » Per te , quod nosse negasti ,</l>
+            <l n="Dante.133">Obtestor numen ne me trahat ista pauoris</l>
+            <l n="Dante.134">Precipitem facies monstroque nocentior error ,</l>
+            <l n="Dante.135">Duc , ut ais , duc , ecce sequor . Permitte uidere</l>
+            <l n="Dante.136">Aetherios aditus , ubi magni ianua Petri</l>
+            <l n="Dante.137">Panditur et memoras quos sic incedere moestos . «</l>
+            <l n="Dante.138">Tunc mouet ille pedes , ego sum comitatus euntem .</l>
+         </div>
+      </body>
+   </text>
+</TEI>
